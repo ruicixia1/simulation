@@ -1,2 +1,1 @@
 # simulation
-The pdf I submitted on Moodle is not the most updated version, but because I couldn't submit it the second time so I put the most updated version here. There are not many changes between these two versions, the most updated version included more attempts(code) to work out the second part and added Wilson's in-text citation and reference for the second part. Since they are only incomplete work so I put it here just to show the process.
